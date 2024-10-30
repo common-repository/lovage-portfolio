@@ -1,0 +1,198 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-10-03 05:59+0000\n"
+"PO-Revision-Date: 2019-10-03 06:00+0000\n"
+"Last-Translator: \n"
+"Language-Team: French (France)\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: includes/class-lovage-portfolio.php:136
+msgid "Add New"
+msgstr "Ajouter De Nouveaux"
+
+#: includes/class-lovage-portfolio.php:137
+msgid "Add New Project"
+msgstr "Ajouter Un Nouveau Projet"
+
+#: includes/class-lovage-portfolio.php:158
+msgid "Add New Project Type"
+msgstr "Ajouter Un Nouveau Type De Projet"
+
+#: includes/class-lovage-portfolio.php:153
+msgid "All Project Types"
+msgstr "Tous Les Types De Projets"
+
+#: includes/class-lovage-portfolio.php:141
+msgid "All Projects"
+msgstr "Tous Les Projets"
+
+#: includes/functions.php:54
+msgid "Client Name"
+msgstr "Nom Du Client"
+
+#: includes/class-lovage-portfolio.php:108
+msgid "Cloning is forbidden."
+msgstr "Le clonage est interdit."
+
+#: includes/metabox.php:43
+msgid "Don't forget http:// or https://"
+msgstr "Don\\'t oublier http:// ou https://"
+
+#: includes/class-lovage-portfolio.php:139
+msgid "Edit Project"
+msgstr "Édition D'Un Projet"
+
+#: includes/class-lovage-portfolio.php:156
+msgid "Edit Project Type"
+msgstr "Modifier Le Type De Projet"
+
+#: includes/functions.php:57
+msgid "Finish Date"
+msgstr "Date De Fin"
+
+#. Author URI of the plugin
+msgid "https://lovage.io"
+msgstr "https://lovage.io"
+
+#. URI of the plugin
+msgid "https://lovage.io/product/lovage-portfolio"
+msgstr "https://lovage.io/product/lovage-portfolio"
+
+#. Author of the plugin
+msgid "Lovage"
+msgstr "La livèche"
+
+#. Name of the plugin
+#: blocks/init.php:105
+msgid "Lovage Portfolio"
+msgstr "La Livèche Portefeuille"
+
+#. Description of the plugin
+msgid ""
+"Lovage Portfolio offer the portfolio custom post type and the other basic "
+"features that allows you to show your projects on your WordPress site."
+msgstr ""
+"La livèche Portefeuille offre le portefeuille de custom post type et les "
+"autres fonctions de base qui vous permet de montrer vos projets sur votre "
+"site WordPress."
+
+#: includes/class-lovage-portfolio.php:159
+msgid "New Genre Project Type"
+msgstr "Genre Nouveau Type De Projet"
+
+#: includes/class-lovage-portfolio.php:138
+msgid "New Project"
+msgstr "Nouveau Projet"
+
+#: includes/class-lovage-portfolio.php:145
+msgid "No project found in Trash."
+msgstr "Aucun projet n'a trouvé dans la Poubelle."
+
+#: includes/functions.php:219 includes/class-lovage-portfolio.php:144
+#: templates/portfolio-grid-page-template.php:60
+#: templates/taxonomy-portfolio-type.php:39
+msgid "No project found."
+msgstr "Aucun projet n'a trouvé."
+
+#: includes/class-lovage-portfolio.php:155
+msgid "Parent Project Type:"
+msgstr "Mère Type De Projet:"
+
+#: includes/class-lovage-portfolio.php:154
+msgid "Parent Project Types"
+msgstr "Parent Types De Projet"
+
+#: includes/class-lovage-portfolio.php:143
+msgid "Parent Projects:"
+msgstr "Parent Projets:"
+
+#: includes/metabox.php:58
+msgid "Pick a date"
+msgstr "Choisissez une date"
+
+#: includes/class-lovage-portfolio.php:134
+#: includes/class-lovage-portfolio.php:135
+#: includes/class-lovage-portfolio.php:147
+msgid "Portfolio"
+msgstr "Portefeuille"
+
+#: includes/class-lovage-portfolio.php:133
+msgid "Project"
+msgstr "Projet"
+
+#: includes/metabox.php:26
+msgid "Project Information"
+msgstr "Information Sur Le Projet"
+
+#: includes/metabox.php:20
+msgid "Project Settings"
+msgstr "Les Paramètres De Projet"
+
+#: includes/class-lovage-portfolio.php:151
+msgid "Project Type"
+msgstr "Type De Projet"
+
+#: includes/class-lovage-portfolio.php:150
+#: includes/class-lovage-portfolio.php:160
+#: includes/class-lovage-portfolio.php:162
+msgid "Project Types"
+msgstr "Types De Projet"
+
+#: includes/functions.php:55
+msgid "Project URL"
+msgstr "Projet d'URL"
+
+#: includes/class-lovage-portfolio.php:132
+msgid "Projects"
+msgstr "Projets"
+
+#: includes/class-lovage-portfolio.php:152
+msgid "Search Project Types"
+msgstr "Types De Projets De Recherche"
+
+#: includes/class-lovage-portfolio.php:142
+msgid "Search Projects"
+msgstr "Projets De Recherche"
+
+#: includes/functions.php:56
+msgid "Skills Needed"
+msgstr "Compétences Nécessaires"
+
+#: includes/class-lovage-portfolio.php:385
+msgid "The portfolio grid page template doesn't exist."
+msgstr "Le portefeuille de la grille de modèle de page ne t\\'existe pas."
+
+#: includes/class-lovage-portfolio.php:342
+msgid "The portfolio post template doesn't exist."
+msgstr "Le portefeuille de poste modèle ne t\\'existe pas."
+
+#: includes/class-lovage-portfolio.php:363
+msgid "The portfolio taxonomy template doesn't exist."
+msgstr "Le portefeuille de la taxonomie modèle ne t\\'existe pas."
+
+#: includes/metabox.php:21
+msgid "The settings for this project."
+msgstr "Les paramètres de ce projet."
+
+#: includes/class-lovage-portfolio.php:117
+msgid "Unserializing instances of this class is forbidden."
+msgstr "Désérialisation d'instances de cette classe est interdite."
+
+#: includes/class-lovage-portfolio.php:157
+msgid "Update Project Type"
+msgstr "Mise À Jour Type De Projet"
+
+#: includes/metabox.php:29
+msgid "Upload Media Files"
+msgstr "Télécharger Des Fichiers Multimédia"
+
+#: includes/class-lovage-portfolio.php:140
+msgid "View Project"
+msgstr "Visualiser Le Projet"

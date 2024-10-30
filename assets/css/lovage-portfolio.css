@@ -1,0 +1,200 @@
+/* =========  Taxonomy  ============= */
+.lovage-portfolio-tax-title .desc{
+	width: 60%;
+}
+.lovage-portfolio-tax-title.text-align-center{
+	text-align: center;
+}
+.lovage-portfolio-tax-title.text-align-center .desc{
+	margin: auto;
+}
+
+.lovage-portfolio-grid.columns-3{
+	display: flex;
+	flex-wrap: wrap;
+}
+.lovage-portfolio-grid .portfolio-item{
+	position: relative;
+	overflow: hidden;
+}
+.lovage-portfolio-grid .portfolio-item .portfolio-thumbnail{
+	width: 100%;
+	height: auto;
+	overflow: hidden;
+	position: relative;
+}
+.lovage-portfolio-grid .portfolio-item .portfolio-overlay{
+	width: 100%;
+	height: 97%;
+	background: #000;
+	opacity: 0.5;
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: 2;
+	opacity: 0;
+}
+.lovage-portfolio-grid .portfolio-item:hover .portfolio-overlay{
+	opacity: 0.4;
+}
+
+.lovage-portfolio-grid .portfolio-item img{
+	width: 100%;
+	height: auto;
+	transition: all 0.5s;
+}
+.lovage-portfolio-grid .portfolio-item:hover img{
+	transform: scale(1.02);
+	transition: all 0.5s;
+}
+.lovage-portfolio-grid .portfolio-item .title{
+	margin: 15px 0;
+	font-size: 16px;
+}
+.lovage-portfolio-grid .portfolio-item .title a{
+	color: #000;
+}
+.lovage-portfolio-grid .portfolio-item .title a:hover{
+	color: #999;
+}
+.lovage-portfolio-grid.columns-3 .portfolio-item{
+	width: 32%;
+	max-height: 300px;
+    height: auto;
+    overflow: hidden;
+	margin-bottom: 3%;
+	margin-right: 2%;
+}
+.lovage-portfolio-grid.columns-3 .portfolio-item:nth-child(3n+3){
+	margin-right: 0;
+}
+
+/* Pagination */
+.lovage-portfolio-pagenavi,
+.lovage-portfolio-grid .navigation.pagination{
+	width: 100%;
+	clear: both;
+	margin-top: 2em;
+	text-align: center;
+}
+
+.lovage-portfolio-pagenavi a:not(.next):not(.previous),
+.lovage-portfolio-pagenavi span,
+.lovage-portfolio-grid .navigation.pagination .nav-links a:not(.next):not(.previous),
+.lovage-portfolio-grid .navigation.pagination .nav-links span{
+	display: inline-block;
+	padding: 10px 20px;
+	margin-right: 5px;
+}
+.lovage-portfolio-pagenavi a,
+.lovage-portfolio-grid .navigation.pagination .nav-links a{
+	border: 1px solid #ddd;
+	color: #000;
+}
+.lovage-portfolio-pagenavi a:hover,
+.lovage-portfolio-grid .navigation.pagination .nav-links a:hover{
+	border-color: #000;
+	color: #fff;
+	background: #000;
+}
+.lovage-portfolio-pagenavi a.next,
+.lovage-portfolio-grid .navigation.pagination .nav-links a.next{
+	padding: 14px;
+}
+.lovage-portfolio-pagenavi span.current,
+.lovage-portfolio-grid .navigation.pagination .nav-links span.current{
+	color: #999;
+	border: 1px solid #eee;
+}
+
+/* =========  Single Post  ============= */
+.lovage-portfolio-tax-title,
+.lovage-portfolio-post,
+.lovage-portfolio-grid{
+	width: 1140px;
+	height: auto;
+	overflow: hidden;
+	margin: 40px auto;
+	position: relative;
+}
+.lovage-portfolio-shortcode.lovage-portfolio-grid{
+	width: auto;
+}
+
+.lovage-portfolio-post.columns-2{
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+}
+
+.lovage-portfolio-media{
+	width: 60%;
+	height: auto;
+	overflow: hidden;
+}
+
+.lovage-portfolio-media .media-item{
+	margin-bottom: 20px;
+}
+
+.lovage-portfolio-media img.lovage-portfolio-image {
+	max-width: 100%;
+	height:auto;
+}
+
+.lovage-portfolio-content{
+	width: 35%;
+}
+
+.lovage-portfolio-info{
+	margin-left: 0;
+	padding-left: 0;
+	margin-top: 30px;
+	padding-top: 30px;
+	font-size: 14px;
+	color: #666;
+	border-top: 1px solid #eee;
+}
+
+.lovage-portfolio-info li{
+	padding: 3px 0;
+	list-style: none;
+}
+
+.lovage-portfolio-info li strong{
+	width: 150px;
+	display: inline-block;
+}
+
+@media(max-width: 1139px){
+	.lovage-portfolio-tax-title,
+	.lovage-portfolio-post,
+	.lovage-portfolio-grid{
+		width: 90%;
+	}
+}
+
+@media(max-width: 767px){
+	.lovage-portfolio-grid.columns-3 .portfolio-item{
+		width: 100%;
+		max-height: 500px;
+		margin-right: 0;
+	}
+	.lovage-portfolio-media,
+	.lovage-portfolio-content{
+		width: 100%;
+	}
+	.lovage-portfolio-media{
+		order: 2;
+	}
+	.lovage-portfolio-content{
+		order: 1;
+		margin-bottom: 5%;
+	}
+}
+
+@media(max-width: 480px){
+	.lovage-portfolio-grid.columns-3 .portfolio-item{
+		max-height: 300px;
+	}
+}

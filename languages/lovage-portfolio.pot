@@ -1,0 +1,197 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Lovage Portfolio\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-10-03 05:54+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.0; wp-5.2.3"
+
+#: includes/class-lovage-portfolio.php:136
+msgid "Add New"
+msgstr ""
+
+#: includes/class-lovage-portfolio.php:137
+msgid "Add New Project"
+msgstr ""
+
+#: includes/class-lovage-portfolio.php:158
+msgid "Add New Project Type"
+msgstr ""
+
+#: includes/class-lovage-portfolio.php:153
+msgid "All Project Types"
+msgstr ""
+
+#: includes/class-lovage-portfolio.php:141
+msgid "All Projects"
+msgstr ""
+
+#: includes/functions.php:54
+msgid "Client Name"
+msgstr ""
+
+#: includes/class-lovage-portfolio.php:108
+msgid "Cloning is forbidden."
+msgstr ""
+
+#: includes/metabox.php:43
+msgid "Don't forget http:// or https://"
+msgstr ""
+
+#: includes/class-lovage-portfolio.php:139
+msgid "Edit Project"
+msgstr ""
+
+#: includes/class-lovage-portfolio.php:156
+msgid "Edit Project Type"
+msgstr ""
+
+#: includes/functions.php:57
+msgid "Finish Date"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://lovage.io"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://lovage.io/product/lovage-portfolio"
+msgstr ""
+
+#. Author of the plugin
+msgid "Lovage"
+msgstr ""
+
+#. Name of the plugin
+#: blocks/init.php:105
+msgid "Lovage Portfolio"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Lovage Portfolio offer the portfolio custom post type and the other basic "
+"features that allows you to show your projects on your WordPress site."
+msgstr ""
+
+#: includes/class-lovage-portfolio.php:159
+msgid "New Genre Project Type"
+msgstr ""
+
+#: includes/class-lovage-portfolio.php:138
+msgid "New Project"
+msgstr ""
+
+#: includes/class-lovage-portfolio.php:145
+msgid "No project found in Trash."
+msgstr ""
+
+#: includes/functions.php:219 includes/class-lovage-portfolio.php:144
+#: templates/portfolio-grid-page-template.php:60
+#: templates/taxonomy-portfolio-type.php:39
+msgid "No project found."
+msgstr ""
+
+#: includes/class-lovage-portfolio.php:155
+msgid "Parent Project Type:"
+msgstr ""
+
+#: includes/class-lovage-portfolio.php:154
+msgid "Parent Project Types"
+msgstr ""
+
+#: includes/class-lovage-portfolio.php:143
+msgid "Parent Projects:"
+msgstr ""
+
+#: includes/metabox.php:58
+msgid "Pick a date"
+msgstr ""
+
+#: includes/class-lovage-portfolio.php:134
+#: includes/class-lovage-portfolio.php:135
+#: includes/class-lovage-portfolio.php:147
+msgid "Portfolio"
+msgstr ""
+
+#: includes/class-lovage-portfolio.php:133
+msgid "Project"
+msgstr ""
+
+#: includes/metabox.php:26
+msgid "Project Information"
+msgstr ""
+
+#: includes/metabox.php:20
+msgid "Project Settings"
+msgstr ""
+
+#: includes/class-lovage-portfolio.php:151
+msgid "Project Type"
+msgstr ""
+
+#: includes/class-lovage-portfolio.php:150
+#: includes/class-lovage-portfolio.php:160
+#: includes/class-lovage-portfolio.php:162
+msgid "Project Types"
+msgstr ""
+
+#: includes/functions.php:55
+msgid "Project URL"
+msgstr ""
+
+#: includes/class-lovage-portfolio.php:132
+msgid "Projects"
+msgstr ""
+
+#: includes/class-lovage-portfolio.php:152
+msgid "Search Project Types"
+msgstr ""
+
+#: includes/class-lovage-portfolio.php:142
+msgid "Search Projects"
+msgstr ""
+
+#: includes/functions.php:56
+msgid "Skills Needed"
+msgstr ""
+
+#: includes/class-lovage-portfolio.php:385
+msgid "The portfolio grid page template doesn't exist."
+msgstr ""
+
+#: includes/class-lovage-portfolio.php:342
+msgid "The portfolio post template doesn't exist."
+msgstr ""
+
+#: includes/class-lovage-portfolio.php:363
+msgid "The portfolio taxonomy template doesn't exist."
+msgstr ""
+
+#: includes/metabox.php:21
+msgid "The settings for this project."
+msgstr ""
+
+#: includes/class-lovage-portfolio.php:117
+msgid "Unserializing instances of this class is forbidden."
+msgstr ""
+
+#: includes/class-lovage-portfolio.php:157
+msgid "Update Project Type"
+msgstr ""
+
+#: includes/metabox.php:29
+msgid "Upload Media Files"
+msgstr ""
+
+#: includes/class-lovage-portfolio.php:140
+msgid "View Project"
+msgstr ""
